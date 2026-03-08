@@ -6,11 +6,17 @@
 I am a regular competitive programmer, solving problems on Codeforces, BigRoute, and LeetCode. I have completed DSA and OOP fundamentals and I am always learning and building new projects.
 
 Skills: JAVA/ OOP / DSA / HTML / CSS / C++
+🎓 I am a Computer Science & Engineering student
 
-- 🔭 I’m currently working on Student Information Management  
-- 🌱 I’m currently learning DSA (C++) 
-- 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: souravmahbub13@gmail.com 
+💻 Passionate about Software Development & Problem Solving
+
+📱 Currently learning Android Development with Kotlin
+
+⚙️ Exploring Backend Development with Spring Boot
+
+🧠 Interested in Data Structures & Algorithms
+
+🔥 Goal: Become a Professional Android & Backend Developer
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gm-sourav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/gm-sourov-6205362ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/gm.sourav.7/)  
