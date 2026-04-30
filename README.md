@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="banner.png" width="75%" alt="GM Sourov Banner"/>
+  <img src="banner.png" width="85%" alt="GM Sourov Banner"/>
 </div>
 
 <br/>
