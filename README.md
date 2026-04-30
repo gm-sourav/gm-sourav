@@ -1,17 +1,14 @@
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/OneDroid/.github/main/images/badge/save-palestine.svg" alt="Free Palestine" width="280"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="banner.png" alt="GM Sourov Banner" width="80%"/>
 </div>
 
 <br/>
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="SavePalestine" width="280"/>
-  <img src="banner.png" alt="GM Sourov Banner" width="100%"/>
-
-</div>
-
-<br/> 
 
 <h1 align="center">Assalamu Alaikum, I'm <span style="color:#2c7bb6;">GM Sourov</span></h1>
 
