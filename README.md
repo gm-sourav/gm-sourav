@@ -104,4 +104,23 @@
 [![](https://nirzak-streak-stats.vercel.app?user=gm-sourav)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-sourav&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gm-sourav&show_icons=true&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=gm-sourav&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gm-sourav&layout=compact&theme=tokyonight" />
+
 <br/>
