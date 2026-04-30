@@ -1,7 +1,5 @@
 <div align="center">
-
-  <img src="assets/banner.png" alt="GM Sourov Banner" width="100%"/>
-
+  <img src="banner.png" alt="GM Sourov Banner" width="100%"/>
 </div>
 
 <br/>
